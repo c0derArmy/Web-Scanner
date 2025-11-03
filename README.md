@@ -1,10 +1,10 @@
-# Zeus Web Scanner
+#  Web Scanner
 
 A comprehensive web vulnerability scanner that combines Google dorking, web spidering, and multiple security scanning capabilities into one powerful tool.
 
 ## Overview
 
-Zeus (Web_Scanner) is an advanced security reconnaissance tool designed to discover and assess web vulnerabilities. It automates the process of finding potential security weaknesses through Google dorking, URL enumeration, and various attack vectors including SQL injection, XSS, port scanning, and more.
+ (Web_Scanner) is an advanced security reconnaissance tool designed to discover and assess web vulnerabilities. It automates the process of finding potential security weaknesses through Google dorking, URL enumeration, and various attack vectors including SQL injection, XSS, port scanning, and more.
 
 ## Features
 
@@ -188,7 +188,7 @@ Web_Scanner/
 │   ├── core/             # Core functionality
 │   ├── plugins/          # Plugin detection modules
 │   └── header_check.py   # HTTP header analysis
-├── var/                   # Variable data
+├── src/                   # Variable data
 │   ├── blackwidow/       # Web spider
 │   ├── search/           # Search engine integration
 │   └── auto_issue/       # Issue reporting
